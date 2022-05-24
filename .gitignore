@@ -1,0 +1,26 @@
+# Project exclude paths
+/01-helloworld/myhelloworld.js
+/02-variable/sample-types.js
+/03-loops-and-array/growable-arrays.js
+/03-loops-and-array/loops.js
+/03-loops-and-array/review.js
+/03-loops-and-array/sport.js
+/04-classes/01-class-definition/Customer.js
+/04-classes/02-access-modifier/Customer.js
+/04-classes/03-tsconfig/Customer.js
+/04-classes/04-parameter-properties/Customer.js
+/04-classes/05-modules/Customer.js
+/04-classes/05-modules/Driver.js
+/05-inheritance/ArrayDriver.js
+/05-inheritance/Circle.js
+/05-inheritance/Driver.js
+/05-inheritance/Rectangle.js
+/05-inheritance/Shape.js
+/06-abstract-classes/ArrayDriver.js
+/06-abstract-classes/Circle.js
+/06-abstract-classes/Rectangle.js
+/06-abstract-classes/Shape.js
+/07-interfaces/Coach.js
+/07-interfaces/CricketCoach.js
+/07-interfaces/Driver.js
+/07-interfaces/GolfCoach.js
